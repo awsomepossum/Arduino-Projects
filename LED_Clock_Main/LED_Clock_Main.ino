@@ -22,7 +22,7 @@
 #define RAINBOW 7
 
 #define NUM_CLOCK_MODES 6
-#define START_CLOCK_MODE 4
+#define START_CLOCK_MODE 3
 
 
 
